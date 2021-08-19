@@ -15,6 +15,10 @@ sites:
     check: "tcp-ping"
     url: https://solana.terselabs.com/
     port: 8899
+  - name: Terse Labs Ethereum API
+    check: "tcp-ping"
+    url: https://ethereum.terselabs.com
+    port: 8545
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
