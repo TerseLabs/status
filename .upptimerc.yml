@@ -12,11 +12,9 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: Terse Labs Solana API
-    method: POST
-    url: https://solana.terselabs.com/$SOLANA_API/
-    headers:
-      - "Content Type: application/json"
-    body: '{ "jsonrpc":"2.0","id":1, "method":"getHealth" }'
+    check: "tcp-ping"
+    url: https://solana.terselabs.com/
+    port: 8899
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
