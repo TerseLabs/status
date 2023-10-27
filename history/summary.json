@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 122,
-    "timeDay": 120,
-    "timeWeek": 120,
+    "time": 123,
+    "timeDay": 126,
+    "timeWeek": 128,
     "timeMonth": 126,
-    "timeYear": 130,
+    "timeYear": 131,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 206,
-    "timeDay": 177,
-    "timeWeek": 141,
-    "timeMonth": 170,
-    "timeYear": 205,
+    "timeDay": 83,
+    "timeWeek": 126,
+    "timeMonth": 169,
+    "timeYear": 204,
     "dailyMinutesDown": {
       "2023-01-25": 31
     }
@@ -49,10 +49,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
     "time": 306,
-    "timeDay": 239,
-    "timeWeek": 225,
-    "timeMonth": 306,
-    "timeYear": 311,
+    "timeDay": 112,
+    "timeWeek": 183,
+    "timeMonth": 302,
+    "timeYear": 310,
     "dailyMinutesDown": {
       "2023-10-11": 21,
       "2023-09-13": 22,
@@ -91,7 +91,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/solana.terselabs.com.ico",
     "slug": "terse-labs-solana-api",
     "status": "down",
-    "uptime": "34.04%",
+    "uptime": "34.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -102,7 +102,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-26": 25,
+      "2023-10-27": 25,
+      "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
       "2023-10-23": 1440,
@@ -465,8 +466,7 @@
       "2022-10-31": 1440,
       "2022-10-30": 1440,
       "2022-10-29": 1440,
-      "2022-10-28": 1440,
-      "2022-10-27": 1440
+      "2022-10-28": 1440
     }
   },
   {
@@ -475,7 +475,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ethereum.terselabs.com.ico",
     "slug": "terse-labs-ethereum-api",
     "status": "down",
-    "uptime": "34.02%",
+    "uptime": "33.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -486,7 +486,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-26": 25,
+      "2023-10-27": 25,
+      "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
       "2023-10-23": 1440,
@@ -849,8 +850,7 @@
       "2022-10-31": 1440,
       "2022-10-30": 1440,
       "2022-10-29": 1440,
-      "2022-10-28": 1440,
-      "2022-10-27": 1440
+      "2022-10-28": 1440
     }
   }
 ]
