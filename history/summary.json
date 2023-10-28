@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 126,
-    "timeWeek": 128,
-    "timeMonth": 126,
+    "timeDay": 336,
+    "timeWeek": 164,
+    "timeMonth": 133,
     "timeYear": 131,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 206,
-    "timeDay": 83,
-    "timeWeek": 126,
-    "timeMonth": 169,
+    "timeDay": 243,
+    "timeWeek": 128,
+    "timeMonth": 174,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2023-01-25": 31
@@ -49,10 +49,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.94%",
     "time": 306,
-    "timeDay": 112,
-    "timeWeek": 183,
-    "timeMonth": 302,
-    "timeYear": 310,
+    "timeDay": 282,
+    "timeWeek": 191,
+    "timeMonth": 306,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2023-10-11": 21,
       "2023-09-13": 22,
@@ -63,8 +63,7 @@
       "2023-03-27": 33,
       "2023-03-16": 22,
       "2023-02-10": 18,
-      "2022-12-08": 17,
-      "2022-10-28": 19
+      "2022-12-08": 17
     }
   },
   {
@@ -91,7 +90,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/solana.terselabs.com.ico",
     "slug": "terse-labs-solana-api",
     "status": "down",
-    "uptime": "34.00%",
+    "uptime": "33.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -102,7 +101,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-27": 25,
+      "2023-10-28": 24,
+      "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
@@ -465,8 +465,7 @@
       "2022-11-01": 1440,
       "2022-10-31": 1440,
       "2022-10-30": 1440,
-      "2022-10-29": 1440,
-      "2022-10-28": 1440
+      "2022-10-29": 1440
     }
   },
   {
@@ -475,7 +474,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ethereum.terselabs.com.ico",
     "slug": "terse-labs-ethereum-api",
     "status": "down",
-    "uptime": "33.98%",
+    "uptime": "33.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -486,7 +485,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-27": 25,
+      "2023-10-28": 24,
+      "2023-10-27": 1440,
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
@@ -849,8 +849,7 @@
       "2022-11-01": 1440,
       "2022-10-31": 1440,
       "2022-10-30": 1440,
-      "2022-10-29": 1440,
-      "2022-10-28": 1440
+      "2022-10-29": 1440
     }
   }
 ]
