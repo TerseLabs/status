@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 86,
-    "timeWeek": 70,
-    "timeMonth": 90,
-    "timeYear": 131,
+    "timeDay": 71,
+    "timeWeek": 71,
+    "timeMonth": 80,
+    "timeYear": 130,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 202,
-    "timeDay": 116,
-    "timeWeek": 299,
-    "timeMonth": 239,
+    "timeDay": 97,
+    "timeWeek": 285,
+    "timeMonth": 241,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2023-01-25": 31
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.89%",
-    "time": 340,
-    "timeDay": 142,
-    "timeWeek": 272,
+    "time": 339,
+    "timeDay": 100,
+    "timeWeek": 233,
     "timeMonth": 819,
-    "timeYear": 345,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2023-12-15": 38,
       "2023-12-12": 227,
@@ -93,7 +93,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/solana.terselabs.com.ico",
     "slug": "terse-labs-solana-api",
     "status": "down",
-    "uptime": "31.33%",
+    "uptime": "31.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -104,7 +104,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-03": 27,
+      "2024-01-04": 28,
+      "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -467,8 +468,7 @@
       "2023-01-08": 1440,
       "2023-01-07": 1440,
       "2023-01-06": 1440,
-      "2023-01-05": 1440,
-      "2023-01-04": 1440
+      "2023-01-05": 1440
     }
   },
   {
@@ -477,7 +477,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ethereum.terselabs.com.ico",
     "slug": "terse-labs-ethereum-api",
     "status": "down",
-    "uptime": "31.31%",
+    "uptime": "31.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -488,7 +488,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-03": 27,
+      "2024-01-04": 28,
+      "2024-01-03": 1440,
       "2024-01-02": 1440,
       "2024-01-01": 1440,
       "2023-12-31": 1440,
@@ -851,8 +852,7 @@
       "2023-01-08": 1440,
       "2023-01-07": 1440,
       "2023-01-06": 1440,
-      "2023-01-05": 1440,
-      "2023-01-04": 1440
+      "2023-01-05": 1440
     }
   }
 ]
