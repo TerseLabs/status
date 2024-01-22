@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 124,
-    "timeDay": 71,
+    "timeDay": 62,
     "timeWeek": 75,
     "timeMonth": 84,
     "timeYear": 129,
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 201,
-    "timeDay": 200,
-    "timeWeek": 150,
-    "timeMonth": 197,
+    "time": 202,
+    "timeDay": 357,
+    "timeWeek": 156,
+    "timeMonth": 203,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2023-01-25": 31
@@ -49,9 +49,9 @@
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.87%",
     "time": 333,
-    "timeDay": 486,
-    "timeWeek": 185,
-    "timeMonth": 254,
+    "timeDay": 417,
+    "timeWeek": 227,
+    "timeMonth": 253,
     "timeYear": 344,
     "dailyMinutesDown": {
       "2024-01-10": 110,
@@ -94,7 +94,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/solana.terselabs.com.ico",
     "slug": "terse-labs-solana-api",
     "status": "down",
-    "uptime": "30.69%",
+    "uptime": "30.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -105,7 +105,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-21": 31,
+      "2024-01-22": 30,
+      "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
@@ -468,8 +469,7 @@
       "2023-01-26": 1440,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
-      "2023-01-23": 1440,
-      "2023-01-22": 1440
+      "2023-01-23": 1440
     }
   },
   {
@@ -478,7 +478,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ethereum.terselabs.com.ico",
     "slug": "terse-labs-ethereum-api",
     "status": "down",
-    "uptime": "30.68%",
+    "uptime": "30.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -489,7 +489,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-01-21": 31,
+      "2024-01-22": 30,
+      "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
       "2024-01-18": 1440,
@@ -852,8 +853,7 @@
       "2023-01-26": 1440,
       "2023-01-25": 1440,
       "2023-01-24": 1440,
-      "2023-01-23": 1440,
-      "2023-01-22": 1440
+      "2023-01-23": 1440
     }
   }
 ]
