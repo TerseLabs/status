@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 68,
-    "timeWeek": 74,
-    "timeMonth": 97,
-    "timeYear": 128,
+    "timeDay": 151,
+    "timeWeek": 87,
+    "timeMonth": 99,
+    "timeYear": 129,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 201,
-    "timeWeek": 196,
-    "timeMonth": 215,
+    "time": 206,
+    "timeDay": 186,
+    "timeWeek": 200,
+    "timeMonth": 220,
     "timeYear": 209,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 334,
-    "timeDay": 488,
-    "timeWeek": 367,
-    "timeMonth": 290,
+    "timeDay": 434,
+    "timeWeek": 363,
+    "timeMonth": 301,
     "timeYear": 350,
     "dailyMinutesDown": {
       "2024-02-29": 18,
@@ -88,7 +88,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/solana.terselabs.com.ico",
     "slug": "terse-labs-solana-api",
     "status": "down",
-    "uptime": "28.26%",
+    "uptime": "28.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -99,7 +99,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-06": 26,
+      "2024-04-07": 30,
+      "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
@@ -462,8 +463,7 @@
       "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
-      "2023-04-09": 1440,
-      "2023-04-08": 1440
+      "2023-04-09": 1440
     }
   },
   {
@@ -472,7 +472,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ethereum.terselabs.com.ico",
     "slug": "terse-labs-ethereum-api",
     "status": "down",
-    "uptime": "28.25%",
+    "uptime": "28.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -483,7 +483,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-06": 26,
+      "2024-04-07": 30,
+      "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
@@ -846,8 +847,7 @@
       "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
-      "2023-04-09": 1440,
-      "2023-04-08": 1440
+      "2023-04-09": 1440
     }
   }
 ]
