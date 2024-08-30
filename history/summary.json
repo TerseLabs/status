@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 124,
-    "timeDay": 67,
+    "timeDay": 79,
     "timeWeek": 88,
     "timeMonth": 95,
-    "timeYear": 111,
+    "timeYear": 110,
     "dailyMinutesDown": {
       "2024-05-01": 32
     }
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 362,
-    "timeWeek": 219,
-    "timeMonth": 226,
-    "timeYear": 225,
+    "timeDay": 40,
+    "timeWeek": 194,
+    "timeMonth": 222,
+    "timeYear": 224,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +49,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.90%",
     "time": 342,
-    "timeDay": 351,
-    "timeWeek": 412,
-    "timeMonth": 326,
-    "timeYear": 351,
+    "timeDay": 94,
+    "timeWeek": 369,
+    "timeMonth": 317,
+    "timeYear": 350,
     "dailyMinutesDown": {
       "2024-08-07": 19,
       "2024-06-25": 16,
@@ -90,7 +90,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/solana.terselabs.com.ico",
     "slug": "terse-labs-solana-api",
     "status": "down",
-    "uptime": "24.56%",
+    "uptime": "24.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -101,7 +101,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-29": 33,
+      "2024-08-30": 33,
+      "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
@@ -464,8 +465,7 @@
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
-      "2023-09-01": 1440,
-      "2023-08-31": 1440
+      "2023-09-01": 1440
     }
   },
   {
@@ -474,7 +474,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ethereum.terselabs.com.ico",
     "slug": "terse-labs-ethereum-api",
     "status": "down",
-    "uptime": "24.54%",
+    "uptime": "24.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -485,7 +485,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-29": 33,
+      "2024-08-30": 33,
+      "2024-08-29": 1440,
       "2024-08-28": 1440,
       "2024-08-27": 1440,
       "2024-08-26": 1440,
@@ -848,8 +849,7 @@
       "2023-09-04": 1440,
       "2023-09-03": 1440,
       "2023-09-02": 1440,
-      "2023-09-01": 1440,
-      "2023-08-31": 1440
+      "2023-09-01": 1440
     }
   }
 ]
