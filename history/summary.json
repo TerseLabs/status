@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 123,
-    "timeDay": 79,
-    "timeWeek": 82,
+    "timeDay": 78,
+    "timeWeek": 79,
     "timeMonth": 95,
     "timeYear": 110,
     "dailyMinutesDown": {
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 225,
-    "timeWeek": 183,
-    "timeMonth": 202,
+    "timeDay": 222,
+    "timeWeek": 194,
+    "timeMonth": 197,
     "timeYear": 224,
     "dailyMinutesDown": {}
   },
@@ -49,8 +49,8 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.90%",
     "time": 342,
-    "timeDay": 305,
-    "timeWeek": 305,
+    "timeDay": 312,
+    "timeWeek": 317,
     "timeMonth": 311,
     "timeYear": 349,
     "dailyMinutesDown": {
@@ -102,7 +102,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-01": 1112,
+      "2024-09-02": 34,
+      "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
@@ -465,8 +466,7 @@
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
-      "2023-09-04": 1440,
-      "2023-09-03": 1440
+      "2023-09-04": 1440
     }
   },
   {
@@ -475,7 +475,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ethereum.terselabs.com.ico",
     "slug": "terse-labs-ethereum-api",
     "status": "down",
-    "uptime": "24.46%",
+    "uptime": "24.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -486,7 +486,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-01": 1112,
+      "2024-09-02": 34,
+      "2024-09-01": 1440,
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
@@ -849,8 +850,7 @@
       "2023-09-07": 1440,
       "2023-09-06": 1440,
       "2023-09-05": 1440,
-      "2023-09-04": 1440,
-      "2023-09-03": 1440
+      "2023-09-04": 1440
     }
   }
 ]
