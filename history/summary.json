@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 106,
-    "timeDay": 181,
-    "timeWeek": 129,
-    "timeMonth": 104,
-    "timeYear": 105,
+    "time": 107,
+    "timeDay": 262,
+    "timeWeek": 151,
+    "timeMonth": 109,
+    "timeYear": 106,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 233,
-    "timeDay": 38,
-    "timeWeek": 187,
-    "timeMonth": 187,
-    "timeYear": 224,
+    "time": 231,
+    "timeDay": 36,
+    "timeWeek": 99,
+    "timeMonth": 179,
+    "timeYear": 223,
     "dailyMinutesDown": {}
   },
   {
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 319,
-    "timeDay": 516,
-    "timeWeek": 355,
-    "timeMonth": 384,
-    "timeYear": 321,
+    "timeDay": 428,
+    "timeWeek": 380,
+    "timeMonth": 393,
+    "timeYear": 322,
     "dailyMinutesDown": {
       "2024-09-07": 51,
       "2024-09-06": 21,
@@ -83,7 +83,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/solana.terselabs.com.ico",
     "slug": "terse-labs-solana-api",
     "status": "down",
-    "uptime": "20.00%",
+    "uptime": "19.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -94,7 +94,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-08": 42,
+      "2025-05-09": 42,
+      "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
@@ -457,8 +458,7 @@
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
-      "2024-05-10": 1440,
-      "2024-05-09": 1440
+      "2024-05-10": 1440
     }
   },
   {
@@ -467,7 +467,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ethereum.terselabs.com.ico",
     "slug": "terse-labs-ethereum-api",
     "status": "down",
-    "uptime": "19.99%",
+    "uptime": "19.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -478,7 +478,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-08": 42,
+      "2025-05-09": 42,
+      "2025-05-08": 1440,
       "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
@@ -841,8 +842,7 @@
       "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
-      "2024-05-10": 1440,
-      "2024-05-09": 1440
+      "2024-05-10": 1440
     }
   }
 ]
