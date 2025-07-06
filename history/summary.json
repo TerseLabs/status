@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 159,
+    "timeDay": 68,
     "timeWeek": 97,
-    "timeMonth": 99,
+    "timeMonth": 98,
     "timeYear": 106,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 145,
-    "timeWeek": 208,
-    "timeMonth": 138,
-    "timeYear": 220,
+    "time": 230,
+    "timeDay": 582,
+    "timeWeek": 286,
+    "timeMonth": 152,
+    "timeYear": 221,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 321,
-    "timeDay": 335,
-    "timeWeek": 316,
-    "timeMonth": 299,
+    "timeDay": 378,
+    "timeWeek": 313,
+    "timeMonth": 307,
     "timeYear": 321,
     "dailyMinutesDown": {
       "2025-07-02": 19,
@@ -83,7 +83,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/solana.terselabs.com.ico",
     "slug": "terse-labs-solana-api",
     "status": "down",
-    "uptime": "19.18%",
+    "uptime": "19.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -94,7 +94,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 42,
+      "2025-07-06": 50,
+      "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -457,8 +458,7 @@
       "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
-      "2024-07-07": 1440,
-      "2024-07-06": 1440
+      "2024-07-07": 1440
     }
   },
   {
@@ -467,7 +467,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ethereum.terselabs.com.ico",
     "slug": "terse-labs-ethereum-api",
     "status": "down",
-    "uptime": "19.17%",
+    "uptime": "19.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -478,7 +478,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-05": 42,
+      "2025-07-06": 50,
+      "2025-07-05": 1440,
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
@@ -841,8 +842,7 @@
       "2024-07-10": 1440,
       "2024-07-09": 1440,
       "2024-07-08": 1440,
-      "2024-07-07": 1440,
-      "2024-07-06": 1440
+      "2024-07-07": 1440
     }
   }
 ]
