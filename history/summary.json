@@ -25,18 +25,20 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.69%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 194,
-    "timeWeek": 134,
-    "timeMonth": 193,
+    "timeDay": 120,
+    "timeWeek": 123,
+    "timeMonth": 188,
     "timeYear": 200,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-03": 19
+    }
   },
   {
     "name": "Hacker News",
@@ -93,7 +95,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-03": 1048,
+      "2025-12-03": 1067,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
@@ -477,7 +479,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-03": 1048,
+      "2025-12-03": 1067,
       "2025-12-02": 1440,
       "2025-12-01": 1440,
       "2025-11-30": 1440,
