@@ -6,13 +6,13 @@
     "slug": "google",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "97.83%",
+    "uptimeDay": "98.93%",
     "uptimeWeek": "98.92%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
     "time": 117,
-    "timeDay": 196,
-    "timeWeek": 271,
+    "timeDay": 166,
+    "timeWeek": 269,
     "timeMonth": 201,
     "timeYear": 122,
     "dailyMinutesDown": {
@@ -37,9 +37,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 207,
-    "timeDay": 259,
-    "timeWeek": 310,
-    "timeMonth": 173,
+    "timeDay": 48,
+    "timeWeek": 227,
+    "timeMonth": 171,
     "timeYear": 187,
     "dailyMinutesDown": {
       "2025-12-03": 19
@@ -56,10 +56,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 321,
-    "timeDay": 211,
-    "timeWeek": 219,
-    "timeMonth": 292,
+    "time": 320,
+    "timeDay": 95,
+    "timeWeek": 214,
+    "timeMonth": 293,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2025-07-02": 19
@@ -100,7 +100,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-16": 466,
+      "2025-12-17": 42,
+      "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
@@ -463,8 +464,7 @@
       "2024-12-21": 1440,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
-      "2024-12-18": 1440,
-      "2024-12-17": 1440
+      "2024-12-18": 1440
     }
   },
   {
@@ -473,7 +473,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ethereum.terselabs.com.ico",
     "slug": "terse-labs-ethereum-api",
     "status": "down",
-    "uptime": "17.17%",
+    "uptime": "17.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -484,7 +484,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-16": 466,
+      "2025-12-17": 42,
+      "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
@@ -847,8 +848,7 @@
       "2024-12-21": 1440,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
-      "2024-12-18": 1440,
-      "2024-12-17": 1440
+      "2024-12-18": 1440
     }
   }
 ]
