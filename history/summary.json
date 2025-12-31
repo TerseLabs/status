@@ -11,9 +11,9 @@
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.97%",
     "time": 117,
-    "timeDay": 77,
-    "timeWeek": 86,
-    "timeMonth": 171,
+    "timeDay": 116,
+    "timeWeek": 90,
+    "timeMonth": 170,
     "timeYear": 121,
     "dailyMinutesDown": {
       "2025-12-16": 15,
@@ -37,9 +37,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 205,
-    "timeDay": 76,
-    "timeWeek": 132,
-    "timeMonth": 162,
+    "timeDay": 209,
+    "timeWeek": 155,
+    "timeMonth": 164,
     "timeYear": 184,
     "dailyMinutesDown": {
       "2025-12-03": 19
@@ -57,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 318,
-    "timeDay": 422,
-    "timeWeek": 270,
-    "timeMonth": 266,
+    "timeDay": 307,
+    "timeWeek": 301,
+    "timeMonth": 267,
     "timeYear": 319,
     "dailyMinutesDown": {
       "2025-07-02": 19
@@ -89,10 +89,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/solana.terselabs.com.ico",
     "slug": "terse-labs-solana-api",
     "status": "down",
-    "uptime": "17.04%",
+    "uptime": "17.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -100,7 +100,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-30": 45,
+      "2025-12-31": 46,
+      "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
@@ -463,8 +464,7 @@
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
-      "2025-01-01": 1440,
-      "2024-12-31": 1440
+      "2025-01-01": 1440
     }
   },
   {
@@ -473,10 +473,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ethereum.terselabs.com.ico",
     "slug": "terse-labs-ethereum-api",
     "status": "down",
-    "uptime": "17.02%",
+    "uptime": "17.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -484,7 +484,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-30": 45,
+      "2025-12-31": 46,
+      "2025-12-30": 1440,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
@@ -847,8 +848,7 @@
       "2025-01-04": 1440,
       "2025-01-03": 1440,
       "2025-01-02": 1440,
-      "2025-01-01": 1440,
-      "2024-12-31": 1440
+      "2025-01-01": 1440
     }
   }
 ]
