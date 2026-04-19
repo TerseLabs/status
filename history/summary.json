@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 126,
-    "timeDay": 137,
-    "timeWeek": 115,
-    "timeMonth": 123,
+    "timeDay": 82,
+    "timeWeek": 111,
+    "timeMonth": 122,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2026-02-21": 28,
@@ -39,10 +39,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 203,
-    "timeWeek": 186,
-    "timeMonth": 183,
-    "timeYear": 182,
+    "timeDay": 47,
+    "timeWeek": 157,
+    "timeMonth": 182,
+    "timeYear": 181,
     "dailyMinutesDown": {
       "2025-12-03": 19
     }
@@ -58,10 +58,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 311,
-    "timeDay": 393,
-    "timeWeek": 372,
-    "timeMonth": 295,
+    "time": 312,
+    "timeDay": 428,
+    "timeWeek": 415,
+    "timeMonth": 296,
     "timeYear": 312,
     "dailyMinutesDown": {
       "2025-07-02": 19
@@ -91,7 +91,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/solana.terselabs.com.ico",
     "slug": "terse-labs-solana-api",
     "status": "down",
-    "uptime": "15.94%",
+    "uptime": "15.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -102,7 +102,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-18": 68,
+      "2026-04-19": 77,
+      "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
       "2026-04-15": 1440,
@@ -465,8 +466,7 @@
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
-      "2025-04-20": 1440,
-      "2025-04-19": 1440
+      "2025-04-20": 1440
     }
   },
   {
@@ -486,7 +486,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-04-18": 68,
+      "2026-04-19": 77,
+      "2026-04-18": 1440,
       "2026-04-17": 1440,
       "2026-04-16": 1440,
       "2026-04-15": 1440,
@@ -849,8 +850,7 @@
       "2025-04-23": 1440,
       "2025-04-22": 1440,
       "2025-04-21": 1440,
-      "2025-04-20": 1440,
-      "2025-04-19": 1440
+      "2025-04-20": 1440
     }
   }
 ]
