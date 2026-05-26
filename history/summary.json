@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 125,
-    "timeDay": 88,
-    "timeWeek": 73,
-    "timeMonth": 93,
+    "time": 124,
+    "timeDay": 55,
+    "timeWeek": 72,
+    "timeMonth": 91,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2025-07-08": 24,
@@ -39,10 +39,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
-    "timeDay": 242,
-    "timeWeek": 189,
-    "timeMonth": 213,
-    "timeYear": 181,
+    "timeDay": 35,
+    "timeWeek": 161,
+    "timeMonth": 209,
+    "timeYear": 180,
     "dailyMinutesDown": {
       "2025-12-03": 19
     }
@@ -59,9 +59,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 309,
-    "timeDay": 300,
-    "timeWeek": 270,
-    "timeMonth": 284,
+    "timeDay": 371,
+    "timeWeek": 295,
+    "timeMonth": 293,
     "timeYear": 303,
     "dailyMinutesDown": {
       "2025-07-02": 19
@@ -102,7 +102,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 119,
+      "2026-05-26": 112,
+      "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -465,8 +466,7 @@
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
-      "2025-05-27": 1440,
-      "2025-05-26": 1440
+      "2025-05-27": 1440
     }
   },
   {
@@ -475,7 +475,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/ethereum.terselabs.com.ico",
     "slug": "terse-labs-ethereum-api",
     "status": "down",
-    "uptime": "15.60%",
+    "uptime": "15.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -486,7 +486,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 119,
+      "2026-05-26": 112,
+      "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -849,8 +850,7 @@
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
-      "2025-05-27": 1440,
-      "2025-05-26": 1440
+      "2025-05-27": 1440
     }
   }
 ]
