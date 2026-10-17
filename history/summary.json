@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 119,
-    "timeDay": 83,
-    "timeWeek": 90,
+    "timeDay": 77,
+    "timeWeek": 91,
     "timeMonth": 89,
-    "timeYear": 122,
+    "timeYear": 123,
     "dailyMinutesDown": {
       "2025-12-03": 31,
       "2025-12-11": 24,
@@ -38,10 +38,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 40,
-    "timeWeek": 123,
-    "timeMonth": 156,
+    "time": 178,
+    "timeDay": 185,
+    "timeWeek": 134,
+    "timeMonth": 160,
     "timeYear": 177,
     "dailyMinutesDown": {
       "2025-12-03": 19
@@ -59,10 +59,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 293,
-    "timeDay": 88,
-    "timeWeek": 242,
-    "timeMonth": 276,
-    "timeYear": 284,
+    "timeDay": 64,
+    "timeWeek": 207,
+    "timeMonth": 275,
+    "timeYear": 283,
     "dailyMinutesDown": {
       "2026-08-26": 30
     }
@@ -91,7 +91,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/solana.terselabs.com.ico",
     "slug": "terse-labs-solana-api",
     "status": "down",
-    "uptime": "14.41%",
+    "uptime": "14.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -102,7 +102,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-16": 109,
+      "2026-10-17": 104,
+      "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
@@ -465,8 +466,7 @@
       "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
-      "2025-10-18": 1440,
-      "2025-10-17": 1440
+      "2025-10-18": 1440
     }
   },
   {
@@ -486,7 +486,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-16": 109,
+      "2026-10-17": 104,
+      "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
@@ -849,8 +850,7 @@
       "2025-10-21": 1440,
       "2025-10-20": 1440,
       "2025-10-19": 1440,
-      "2025-10-18": 1440,
-      "2025-10-17": 1440
+      "2025-10-18": 1440
     }
   }
 ]
